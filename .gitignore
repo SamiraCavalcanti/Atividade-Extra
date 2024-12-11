@@ -1,0 +1,14 @@
+# Diretórios e arquivos gerados pelo Maven
+/target/
+/logs/
+/dependency-reduced-pom.xml
+/buildNumber.properties
+/mvnw
+/mvnw.cmd
+
+# Arquivos de configuração do IDE
+/.idea/
+/*.iml
+/.project
+/.classpath
+/.settings/
