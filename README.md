@@ -38,7 +38,7 @@ Este projeto é um exemplo simples de como criar e fazer o deploy de uma aplica�
 
 
 
-3. Fiz o deploy da aplicação no WildFly através do IDE depois de ter gerado o arquivo .war e icinia-lo.
+3. Fiz o deploy da aplicação no WildFly através do IDE depois de ter gerado o arquivo .war e iniciá-lo.
 ![Captura de tela de 2024-12-10 15-44-39](https://github.com/user-attachments/assets/fc76f80f-56fb-4109-a2e0-1183a5c15bc7)
 
 ![Captura de tela de 2024-12-10 15-46-32](https://github.com/user-attachments/assets/3f6dcf51-dbfe-44d7-80e8-f1b54543e224)
@@ -55,5 +55,4 @@ Este projeto é um exemplo simples de como criar e fazer o deploy de uma aplica�
 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![WildFly](https://img.shields.io/badge/WildFly-6C757D?style=for-the-badge&logo=wildfly&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
