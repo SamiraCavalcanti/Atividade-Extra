@@ -50,7 +50,8 @@ Este projeto é um exemplo simples de como criar e fazer o deploy de uma aplica�
 
 # Integração Contínua com Jenkins
 
-Este repositório foi configurado com **Integração Contínua (CI)** utilizando o Jenkins ![Jenkins Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jenkins_logo.svg/800px-Jenkins_logo.svg.png). 
+
+Este repositório foi configurado com **Integração Contínua (CI)** utilizando o Jenkins 
 
 Sempre que há alterações no repositório, o Jenkins automaticamente executa o processo de build, testes e validações, garantindo que o código esteja sempre estável e pronto para produção. O pipeline de CI inclui a execução de testes automatizados e a criação de artefatos de build, otimizando o fluxo de trabalho de desenvolvimento.
 
@@ -77,4 +78,6 @@ Com isso, garantimos que o código esteja sempre validado, aumentando a qualidad
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![WildFly](https://img.shields.io/badge/WildFly-6C757D?style=for-the-badge&logo=wildfly&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white)
-![Jenkins Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jenkins_logo.svg/800px-Jenkins_logo.svg.png)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
